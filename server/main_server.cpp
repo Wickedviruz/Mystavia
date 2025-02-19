@@ -7,5 +7,8 @@ int main() {
         std::cout << "Server loop interation: " << i << std::endl;
     }
 
+    std::cout << "Press enter to exit...";
+    std::cin.get();
+
     return 0;
 }

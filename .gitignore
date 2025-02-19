@@ -1,0 +1,20 @@
+# Byggkataloger (lägg inte med dessa i Git)
+build/
+Debug/
+Release/
+
+# CMake genererade filer
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio filer
+*.suo
+*.user
+*.vcxproj*
+*.filters
+.vs/
+
+# Temporära filer
+*.log

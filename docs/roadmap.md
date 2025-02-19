@@ -32,6 +32,7 @@ När den kommunikationen är på plats, kan du börja integrera funktioner för 
 - [x] Sätta upp CMake-baserat byggsystem
 - [x] Minimal "Hello World" för klient och server
 - [x] Enkel gemensam kod (ping-pong-meddelanden)
+- [X] Uppdatera Powershell till version 7
 
 ## Milstolpe 2: Grundläggande Nätverk
 - [ ] Implementera socket-kommunikation (t.ex. med Boost.Asio)
