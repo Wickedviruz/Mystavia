@@ -1,5 +1,0 @@
-C:/Users/johan/OneDrive/Dokument/Mystavia/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/johan/OneDrive/Dokument/Mystavia/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/johan/OneDrive/Dokument/Mystavia/build/client/CMakeFiles/MystaviaClient.dir
-C:/Users/johan/OneDrive/Dokument/Mystavia/build/server/CMakeFiles/MystaviaServer.dir
-C:/Users/johan/OneDrive/Dokument/Mystavia/build/shared/CMakeFiles/MystaviaShared.dir
